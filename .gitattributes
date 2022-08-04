@@ -1,2 +1,2 @@
 Plugins/MoveIt/Content/Example/MoveIt_ExampleMap_BuiltData.uasset filter=lfs diff=lfs merge=lfs -text
-Content/Boss/Kraken/Textures/Tex_KRAKEN_LEG_TENTACLE_CLAW_RoughnessMetallicSpecular.uasset filter=lfs diff=lfs merge=lfs -text
+Content/Boss/Kraken/Textures/Tex_KRAKEN_BODY_RoughnessMetallicSpecular.uasset filter=lfs diff=lfs merge=lfs -text
